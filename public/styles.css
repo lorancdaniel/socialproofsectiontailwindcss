@@ -4346,6 +4346,14 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
+.bg-malysz{
+  background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+}
+
+.bg-stoch{
+  background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+}
+
 .from-transparent{
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -11911,6 +11919,14 @@ video {
 .text-9xl{
   font-size: 8rem;
   line-height: 1;
+}
+
+.text-xd{
+  font-size: .55rem;
+}
+
+.text-xdd{
+  font-size: .0.6rem;
 }
 
 .leading-3{
@@ -35676,6 +35692,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .sm\:bg-malysz{
+    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  }
+
+  .sm\:bg-stoch{
+    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  }
+
   .sm\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -43241,6 +43265,14 @@ video {
   .sm\:text-9xl{
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .sm\:text-xd{
+    font-size: .55rem;
+  }
+
+  .sm\:text-xdd{
+    font-size: .0.6rem;
   }
 
   .sm\:leading-3{
@@ -66928,6 +66960,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .md\:bg-malysz{
+    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  }
+
+  .md\:bg-stoch{
+    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  }
+
   .md\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -74493,6 +74533,14 @@ video {
   .md\:text-9xl{
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .md\:text-xd{
+    font-size: .55rem;
+  }
+
+  .md\:text-xdd{
+    font-size: .0.6rem;
   }
 
   .md\:leading-3{
@@ -98180,6 +98228,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .lg\:bg-malysz{
+    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  }
+
+  .lg\:bg-stoch{
+    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  }
+
   .lg\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -105745,6 +105801,14 @@ video {
   .lg\:text-9xl{
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .lg\:text-xd{
+    font-size: .55rem;
+  }
+
+  .lg\:text-xdd{
+    font-size: .0.6rem;
   }
 
   .lg\:leading-3{
@@ -129432,6 +129496,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .xl\:bg-malysz{
+    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  }
+
+  .xl\:bg-stoch{
+    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  }
+
   .xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -136997,6 +137069,14 @@ video {
   .xl\:text-9xl{
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .xl\:text-xd{
+    font-size: .55rem;
+  }
+
+  .xl\:text-xdd{
+    font-size: .0.6rem;
   }
 
   .xl\:leading-3{
@@ -160684,6 +160764,14 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
+  .\32xl\:bg-malysz{
+    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  }
+
+  .\32xl\:bg-stoch{
+    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  }
+
   .\32xl\:from-transparent{
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -168249,6 +168337,14 @@ video {
   .\32xl\:text-9xl{
     font-size: 8rem;
     line-height: 1;
+  }
+
+  .\32xl\:text-xd{
+    font-size: .55rem;
+  }
+
+  .\32xl\:text-xdd{
+    font-size: .0.6rem;
   }
 
   .\32xl\:leading-3{

@@ -12,6 +12,16 @@ module.exports = {
       fontFamily: {
         body: 'Spartan',
       },
+      fontSize: {
+        xd: '.55rem',
+        xdd: '.0.6rem',
+      },
+      backgroundImage: (theme) => ({
+        malysz:
+          "url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg')",
+        stoch:
+          "url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg')",
+      }),
     },
   },
   variants: {
