@@ -5,7 +5,14 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: '#502050',
+        secondary: '#ee68a4',
+        grayishMagenta: '#937b92',
+        lightGrayishMagneta: '#f7f2f7',
+      },
+    },
   },
   plugins: [],
-}
+};
