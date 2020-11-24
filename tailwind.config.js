@@ -2,9 +2,6 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
-  },
-  variants: {
     extend: {
       colors: {
         primary: '#502050',
@@ -12,7 +9,13 @@ module.exports = {
         grayishMagenta: '#937b92',
         lightGrayishMagneta: '#f7f2f7',
       },
+      fontFamily: {
+        body: 'Spartan',
+      },
     },
+  },
+  variants: {
+    extend: {},
   },
   plugins: [],
 };
