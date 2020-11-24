@@ -4347,11 +4347,11 @@ video {
 }
 
 .bg-malysz{
-  background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+  background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
 }
 
 .bg-stoch{
-  background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+  background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
 }
 
 .from-transparent{
@@ -35693,11 +35693,11 @@ video {
   }
 
   .sm\:bg-malysz{
-    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   }
 
   .sm\:bg-stoch{
-    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
   }
 
   .sm\:from-transparent{
@@ -66961,11 +66961,11 @@ video {
   }
 
   .md\:bg-malysz{
-    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   }
 
   .md\:bg-stoch{
-    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
   }
 
   .md\:from-transparent{
@@ -98229,11 +98229,11 @@ video {
   }
 
   .lg\:bg-malysz{
-    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   }
 
   .lg\:bg-stoch{
-    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
   }
 
   .lg\:from-transparent{
@@ -129497,11 +129497,11 @@ video {
   }
 
   .xl\:bg-malysz{
-    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   }
 
   .xl\:bg-stoch{
-    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
   }
 
   .xl\:from-transparent{
@@ -160765,11 +160765,11 @@ video {
   }
 
   .\32xl\:bg-malysz{
-    background-image: url('/public/images/bg-pattern-top-desktop.svg'), url('/public/images/bg-pattern-bottom-desktop.svg');
+    background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   }
 
   .\32xl\:bg-stoch{
-    background-image: url('/public/images/bg-pattern-top-mobile.svg'), url('/public/images/bg-pattern-bottom-mobile.svg');
+    background-image: url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg');
   }
 
   .\32xl\:from-transparent{
