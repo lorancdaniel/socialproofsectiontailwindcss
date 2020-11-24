@@ -18,7 +18,7 @@ module.exports = {
       },
       backgroundImage: (theme) => ({
         malysz:
-          "url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg')",
+          "url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg'),",
         stoch:
           "url('/images/bg-pattern-top-mobile.svg'), url('/images/bg-pattern-bottom-mobile.svg')",
       }),
